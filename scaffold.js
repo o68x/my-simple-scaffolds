@@ -1,7 +1,7 @@
 module.exports = (config) => {
   console.log("Config:", config)
   return {
-    default: {
+    duplicacy: {
       templates: ["node/duplicacy/ducplicacy.mjs"],
       output: ["."],
       data: {
