@@ -1,0 +1,13 @@
+{
+  "name": "my-simple-scaffolds",
+  "version": "1.0.0",
+  "description": "Using <https://github.com/chenasraf/simple-scaffold>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

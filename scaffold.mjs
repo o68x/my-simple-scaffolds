@@ -6,6 +6,7 @@ export default (config) => ({
     data: {
       className: "myClassName",
       author: "My Name",
+      name: "duplicacy.mjs"
     },
   },
 })
