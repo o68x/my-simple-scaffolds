@@ -1,4 +1,4 @@
-export default (config) => ({
+module.exports = (config) => ({
   default: {
     templates: ["node/duplicacy/ducplicacy.mjs"],
     output: ["."],
