@@ -1,6 +1,6 @@
 {
   "name": "my-simple-scaffolds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Using <https://github.com/chenasraf/simple-scaffold>",
   "main": "index.js",
   "type": "commonjs",
