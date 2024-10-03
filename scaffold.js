@@ -1,7 +1,7 @@
 module.exports = {
     duplicacy: {
       name: "duplicacy",
-      templates: ["duplicacy/**/*"],
+      templates: ["duplicacy/*"],
       data: { },
     }
   }
