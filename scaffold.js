@@ -1,7 +1,8 @@
 module.exports = {
     duplicacy: {
       name: "duplicacy",
-      templates: ["duplicacy"],
+      templates: ["duplicacy/duplicacy.mjs"],
+      output: "",
       data: { },
     }
   }
